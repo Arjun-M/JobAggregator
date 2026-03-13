@@ -117,7 +117,7 @@ export default function LoginPage() {
                     <input 
                       value={rollNo} 
                       onChange={e => setRollNo(e.target.value)} 
-                      placeholder="e.g. 2021CS01" 
+                      placeholder="e.g. 6042" 
                       required 
                       style={{ paddingLeft: '2.75rem' }}
                     />
